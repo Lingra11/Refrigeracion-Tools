@@ -1,2 +1,1 @@
-# Refrigeracion-Tools
-Este es un repositorio para administrar refrigeración 
+Este es un proyecto para aportar sobre refrigeracion
